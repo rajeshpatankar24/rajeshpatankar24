@@ -48,9 +48,8 @@ Here are some of my best works:
 
 ### 🌐 Connect with me
 
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourusername)
-- Email: yourname@example.com
+- LinkedIn: [(https://linkedin.com/in/yourusername](https://www.linkedin.com/in/rajeshpatankar-y2024/))
+- Email: Rajeshpatankar24.com
 
 ---
 
