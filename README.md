@@ -48,8 +48,8 @@ Here are some of my best works:
 
 ### 🌐 Connect with me
 
-- LinkedIn: [(https://linkedin.com/in/yourusername](https://www.linkedin.com/in/rajeshpatankar-y2024/))
-- Email: Rajeshpatankar24.com
+- LinkedIn: [(https://linkedin.com/in/rajeshpatankar](https://www.linkedin.com/in/rajeshpatankar-y2024/))
+- Email: rajeshpatankar24.com
 
 ---
 
