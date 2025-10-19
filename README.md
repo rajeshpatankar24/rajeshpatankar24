@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm [Rajesh Patankar]</h1>
-<h3 align="center">Full-Stack MERN Developer | Python Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rajesh Patankar</h1>
+<h3 align="center"> MERN Stack Developer</h3>
 
 ---
 
@@ -24,16 +24,27 @@
 
 ---
 
-### 📌 Projects
+## 🚀 Projects
 
-Here are some of my best works:
+Here are some of the MERN Stack projects I’ve worked on, showcasing my skills in **MongoDB, Express.js, React.js, Node.js**, and related technologies:
 
-#### 🔹 [DevConnect](https://)
-> A developer social media platform for connecting and collaborating.  
-**Stack:** MERN, JWT, Socket.IO  
-✅ Real-time chat | Profile creation | Follow system | MongoDB aggregation
+### 1. Real-Time Chat Application
+- Built a responsive chat app with **Socket.io** for real-time messaging.
+- Implemented **JWT authentication** and chat room management.
+- Deployed frontend on **Vercel** and backend on **Render**.
+
+### 2. Tender Management Platform
+- Developed a secure platform to **create, bid, and manage tenders**.
+- Implemented **role-based authentication** (Admin/User) and authorization.
+- Designed a live bidding system with an **admin monitoring panel**.
 
 
+### Skills Highlighted:
+- **Frontend:** React.js, HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB, Mongoose
+- **Authentication & Security:** JWT, bcrypt.js
+- **Tools & Deployment:** Git/GitHub, Postman, Vercel, Render
 ---
 
 ### 📈 GitHub Stats
@@ -49,7 +60,7 @@ Here are some of my best works:
 ### 🌐 Connect with me
 
 - LinkedIn: [(https://linkedin.com/in/rajeshpatankar](https://www.linkedin.com/in/rajeshpatankar-y2024/))
-- Email: rajeshpatankar24.com
+- Email: rajeshpatankar24@gmail.com
 
 ---
 
