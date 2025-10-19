@@ -47,19 +47,11 @@ Here are some of the MERN Stack projects I’ve worked on, showcasing my skills 
 - **Tools & Deployment:** Git/GitHub, Postman, Vercel, Render
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="" />
-  <br />
-  <img src="" />
-</p>
-
----
 
 ### 🌐 Connect with me
 
-- LinkedIn: [(https://linkedin.com/in/rajeshpatankar](https://www.linkedin.com/in/rajeshpatankar-y2024/))
+- LinkedIn: (https://www.linkedin.com/in/rajeshpatankar-y2024/)
 - Email: rajeshpatankar24@gmail.com
 
 ---
