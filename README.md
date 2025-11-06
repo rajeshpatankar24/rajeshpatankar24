@@ -12,9 +12,9 @@
 
 **Languages & Frameworks**
 - JavaScript, Python
-- React.js, Next.js, Node.js, Express
-- MongoDB, Mongoose
-- HTML, CSS
+- React.js, Node.js, Express.js
+- MongoDB
+- HTML, CSS,Tailwind CSS
 - REST APIs, JWT, OAuth
 
 **Tools**
@@ -42,7 +42,7 @@ Here are some of the MERN Stack projects I’ve worked on, showcasing my skills 
 ### Skills Highlighted:
 - **Frontend:** React.js, HTML5, CSS3, JavaScript
 - **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** MongoDB, Mongoose
+- **Database:** MongoDB
 - **Authentication & Security:** JWT, bcrypt.js
 - **Tools & Deployment:** Git/GitHub, Postman, Vercel, Render
 ---
